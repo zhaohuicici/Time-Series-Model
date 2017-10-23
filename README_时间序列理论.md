@@ -66,7 +66,7 @@ $$\color{red}{Cov(X,Y)}
 =E{(X-E(X) )(y-E(Y) ) }
 \color{red}{=E(XY)-E(X)E(Y)}$$
 
-###1.1.4 相关系数
+### 1.1.4 相关系数
 
 称
 $$ρ_{X,Y}=\frac{Cov(X,Y)}{\sqrt{D(X)D(Y)}}$$
